@@ -67,3 +67,6 @@ for i, j in data_panen.items():
         print(f'\nLokasi {nama_lokasi} memerlukan perhatian khusus')
     else:
         print(f'\nLokasi {nama_lokasi} lokasi tersebut dalam kondisi baik')
+
+
+print("INI COMMIT KEDUA")
