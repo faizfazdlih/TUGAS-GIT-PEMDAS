@@ -70,3 +70,4 @@ for i, j in data_panen.items():
 
 
 print("INI COMMIT KEDUA")
+print("INI COMMIT KETIGA")
